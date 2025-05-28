@@ -35,11 +35,7 @@ This interactive dashboard provides a detailed snapshot of revenue performance f
 
 * **Chicago**: O’Hare, Millennium, Michigan Ave
 * **Los Angeles**: LAX, Beverly Hills, Hollywood
-* **New York**:
-
-  * Times Square: \$20,484 (**+14% MoM**)
-  * JFK: \$13,879 (**+6% MoM**)
-  * Fifth Avenue: \$16,255 (**-14% MoM**)
+* **New York**: Times Square, JFK, Fifth Avenue
 
 ---
 
